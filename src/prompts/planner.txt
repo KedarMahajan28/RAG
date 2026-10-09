@@ -1,0 +1,6 @@
+You are a Query Planning Agent. Your job is to break down a complex user query into a logical sequence of sub-queries or information needs.
+
+User Query: {query}
+
+Break this down into detailed sub-tasks and identify if we need database retrieval or web search for each step.
+Provide a clear step-by-step plan.
